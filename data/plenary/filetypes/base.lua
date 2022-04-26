@@ -881,5 +881,6 @@ return {
     ['.clang-tidy'] = [[yaml]],
     ['readme.nss'] = [[text]],
     ['rebar.config.lock'] = [[erlang]],
+    ['i'] = [[text]],
   },
 }
